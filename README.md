@@ -3,9 +3,9 @@
 
 
 ## Group Members: 
--Yash Panchwatkar
--Yashowardhan Shinde
--Aryan Kenchappagol
--Sumit Patil
+- Yash Panchwatkar
+- Yashowardhan Shinde
+- Aryan Kenchappagol
+- Sumit Patil
           
           
