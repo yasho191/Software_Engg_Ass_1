@@ -1,2 +1,11 @@
 # Software_Engg_Ass_1
-linked list code
+## Lin ked list implementation in Python
+
+
+## Group Members: 
+-Yash Panchwatkar
+-Yashowardhan Shinde
+-Aryan Kenchappagol
+-Sumit Patil
+          
+          
