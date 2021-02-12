@@ -1,10 +1,11 @@
 #linked list code for the SE project.
-
+#class node will store node information 
 class node:
     def __init__(self,data):
         self.data = data
         self.next = None
 
+# singly linked list
 class ssl:
     def __init__(self,n=None):
         """
